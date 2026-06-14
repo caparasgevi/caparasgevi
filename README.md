@@ -28,10 +28,9 @@
 ```typescript
 const gevi = {
   name:       "Mark Gevi Caparas",
-  role:       "Computer Engineering Student @ BulSU",
+  role:       "Computer Engineering Undergrad @ BulSU",
   location:   "Malolos, Bulacan 🇵🇭",
   gwa:        1.31,
-  currently:  ["BulSUPIPS 2.0", "PMES Monorepo", "AI Engineering Roadmap"],
   passions:   ["Full-Stack Web", "AI/ML", "Embedded Systems"],
 };
 ```
