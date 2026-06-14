@@ -169,20 +169,6 @@
 </table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🤝 Organizational Experience
-
-- 🏆 **ICpEP.SE — BulSU Main Campus** — *Quizzers Committee* *(Aug 2025 – Present)*
-  - Managing full competition lifecycle: tryouts → training materials → event execution
-
-- ⚙️ **The Engineers Publication** — *Sports Writer* *(Aug 2025 – Present)*
-  - Covering engineering-related sports events and writing for the official publication
-
-- 📰 **Ang Malaya** — *Lead Sports Editor/Writer* *(July 2018 – August 2022)*
-  - Directed the editorial vision and creative direction of the sports section, driving the publication to earn high-level recognition for its athletic coverage
-  - Led the school's newspaper sports page to an overall 2nd place ranking at Region III RSPC 2019
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
