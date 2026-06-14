@@ -25,15 +25,32 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const gevi = {
-  name:       "Mark Gevi Caparas",
-  role:       "Computer Engineering Undergrad @ BulSU",
-  location:   "Malolos, Bulacan 🇵🇭",
-  gwa:        1.31,
-  passions:   ["Full-Stack Web", "AI/ML", "Embedded Systems"],
-};
-```
+<table>
+  <tr>
+    <td> <strong>Name</strong></td>
+    <td>Mark Gevi Caparas</td>
+  </tr>
+  <tr>
+    <td> <strong>Degree</strong></td>
+    <td>B.S. Computer Engineering @ BulSU</td>
+  </tr>
+  <tr>
+    <td> <strong>Location</strong></td>
+    <td>Malolos, Bulacan 🇵🇭</td>
+  </tr>
+  <tr>
+    <td> <strong>GWA</strong></td>
+    <td>1.31</td>
+  </tr>
+  <tr>
+    <td> <strong>Currently</strong></td>
+    <td>BulSUPIPS 2.0 · PMES · AI Engineering Roadmap</td>
+  </tr>
+  <tr>
+    <td> <strong>Passions</strong></td>
+    <td>Full-Stack Web · AI/ML · Embedded Systems</td>
+  </tr>
+</table>
 
 - 🏆 **Champion** at the 10th Huawei ICT Competition Innovation Track — Nationals
 - 🌱 Currently deep-diving into **AI Engineering** — ML, NLP, LLM APIs, RAG & cloud platforms
@@ -150,12 +167,33 @@ const gevi = {
 
 ### 📜 Certifications
 
-![Oracle](https://img.shields.io/badge/Java%20Programming-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/JS%20Algorithms%20%26%20Data%20Structures-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/Responsive%20Web%20Design-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![Cisco](https://img.shields.io/badge/Operating%20Systems%20Basics-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Networking%20Basics-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
+      <sub><b>Java Programming</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/><br/>
+      <sub><b>JS Algorithms & Data Structures</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/><br/>
+      <sub><b>Responsive Web Design</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/><br/>
+      <sub><b>Operating Systems Basics</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/><br/>
+      <sub><b>Networking Basics</b></sub>
+    </td>
+    <td align="center" width="200"></td>
+  </tr>
+</table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## 🤝 Organizational Experience
