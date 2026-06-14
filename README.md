@@ -27,27 +27,23 @@
 
 <table>
   <tr>
-    <td> <strong>Name</strong></td>
+    <td>🏷️ <strong>Name</strong></td>
     <td>Mark Gevi Caparas</td>
   </tr>
   <tr>
-    <td> <strong>Degree</strong></td>
+    <td>🎓 <strong>Degree</strong></td>
     <td>B.S. Computer Engineering @ BulSU</td>
   </tr>
   <tr>
-    <td> <strong>Location</strong></td>
+    <td>📍 <strong>Location</strong></td>
     <td>Malolos, Bulacan 🇵🇭</td>
   </tr>
   <tr>
-    <td> <strong>GWA</strong></td>
+    <td>📊 <strong>GWA</strong></td>
     <td>1.31</td>
   </tr>
   <tr>
-    <td> <strong>Currently</strong></td>
-    <td>BulSUPIPS 2.0 · PMES · AI Engineering Roadmap</td>
-  </tr>
-  <tr>
-    <td> <strong>Passions</strong></td>
+    <td>❤️ <strong>Passions</strong></td>
     <td>Full-Stack Web · AI/ML · Embedded Systems</td>
   </tr>
 </table>
