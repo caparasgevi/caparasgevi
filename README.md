@@ -141,20 +141,21 @@ const gevi = {
 
 <div align="center">
 
-🏫 **Bulacan State University** — B.S. Computer Engineering *(2023 – Present)*
-📍 Malolos, Bulacan &nbsp;|&nbsp; Cumulative GWA: **1.31**
+### 🏫 Bulacan State University
+**Bachelor of Science in Computer Engineering** *(2023 – Present)*
+📍 Malolos, Bulacan &nbsp;|&nbsp; Cumulative GWA: **1.31** &nbsp;|&nbsp; 🏆 Huawei ICT Nationals **Champion**
 
 </div>
 
-<br/>
+---
 
-| 📜 Certification | 🏢 Issuer |
-|:---|:---|
-| Java Programming | Oracle |
-| JavaScript Algorithms & Data Structures | freeCodeCamp |
-| Responsive Web Design | freeCodeCamp |
-| Operating Systems Basics | Cisco |
-| Networking Basics | Cisco |
+### 📜 Certifications
+
+![Oracle](https://img.shields.io/badge/Java%20Programming-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/JS%20Algorithms%20%26%20Data%20Structures-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/Responsive%20Web%20Design-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![Cisco](https://img.shields.io/badge/Operating%20Systems%20Basics-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Networking%20Basics-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
