@@ -33,7 +33,6 @@ const gevi = {
   gwa:        1.31,
   currently:  ["BulSUPIPS 2.0", "PMES Monorepo", "AI Engineering Roadmap"],
   passions:   ["Full-Stack Web", "AI/ML", "Embedded Systems"],
-  funFact:    "I debug with Postman before I write the frontend 😄",
 };
 ```
 
@@ -126,7 +125,6 @@ const gevi = {
 
 | 🌱 Project | 📝 Description | 🛠️ Stack |
 |:---|:---|:---|
-| **PiliSeed** | AI-powered crop recommendation system using MindSpore + TensorFlow, deployed on Huawei ModelArts | React Native, TensorFlow, Firebase |
 | **Global Health Surveillance** | Unified multi-source API platform for real-time public health trend monitoring | Node.js, REST APIs, MongoDB |
 | **BulSUPIPS 2.0** | Priority ranking & project management system for BulSU PDO-DAICU | React, Express, TypeScript, MongoDB |
 | **PMES** | Performance evaluation monorepo (Web + Forms + CMS) for Bulacan State University | React, Node.js, TypeScript |
@@ -160,12 +158,15 @@ const gevi = {
 
 ## 🤝 Organizational Experience
 
-- 🖥️ **BulSU Microsoft Student Community** — *Technical Support* *(Aug 2025 – Present)*
-  - End-to-end technical setup & real-time troubleshooting for community events
-  - Co-developing workshops & hackathon concepts with the leadership team
-
 - 🏆 **ICpEP.SE — BulSU Main Campus** — *Quizzers Committee* *(Aug 2025 – Present)*
   - Managing full competition lifecycle: tryouts → training materials → event execution
+
+- ⚙️ **The Engineers Publication** — *Sports Writer* *(Aug 2025 – Present)*
+  - Covering engineering-related sports events and writing for the official publication
+
+- 📰 **Ang Malaya** — *Lead Sports Editor/Writer* *(July 2018 – August 2022)*
+  - Directed the editorial vision and creative direction of the sports section, driving the publication to earn high-level recognition for its athletic coverage
+  - Led the school's newspaper sports page to an overall 2nd place ranking at Region III RSPC 2019
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
