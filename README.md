@@ -25,29 +25,6 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td>🏷️ <strong>Name</strong></td>
-    <td>Mark Gevi Caparas</td>
-  </tr>
-  <tr>
-    <td>🎓 <strong>Degree</strong></td>
-    <td>B.S. Computer Engineering @ BulSU</td>
-  </tr>
-  <tr>
-    <td>📍 <strong>Location</strong></td>
-    <td>Malolos, Bulacan 🇵🇭</td>
-  </tr>
-  <tr>
-    <td>📊 <strong>GWA</strong></td>
-    <td>1.31</td>
-  </tr>
-  <tr>
-    <td>❤️ <strong>Passions</strong></td>
-    <td>Full-Stack Web · AI/ML · Embedded Systems</td>
-  </tr>
-</table>
-
 - 🏆 **Champion** at the 10th Huawei ICT Competition Innovation Track — Nationals
 - 🌱 Currently deep-diving into **AI Engineering** — ML, NLP, LLM APIs, RAG & cloud platforms
 - 💼 Contributing to enterprise systems at **BulSU's PDO-DAICU** (BulSUPIPS 2.0 & PMES)
