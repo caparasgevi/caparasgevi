@@ -203,6 +203,6 @@ I'm open to **collaborations**, **open-source projects**, **mentorship**, and ju
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-*⭐ From [caparasgevi](https://github.com/caparasgevi) — Last updated June 2026*
+* From [caparasgevi](https://github.com/caparasgevi) — Last updated June 2026*
 
 </div>
