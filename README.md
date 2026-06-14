@@ -110,22 +110,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🌱 Project | 📝 Description | 🛠️ Stack |
-|:---|:---|:---|
-| **Global Health Surveillance** | Unified multi-source API platform for real-time public health trend monitoring | Node.js, REST APIs, MongoDB |
-| **BulSUPIPS 2.0** | Priority ranking & project management system for BulSU PDO-DAICU | React, Express, TypeScript, MongoDB |
-| **PMES** | Performance evaluation monorepo (Web + Forms + CMS) for Bulacan State University | React, Node.js, TypeScript |
-| **ESP32 Game Console** | Handheld console with C++ firmware, TFT LCD via SPI, and NVRAM high-score system | C++, ESP32, Embedded |
-| **Java Banking System** | Full-cycle banking app with JDBC/MySQL — auth, transactions, bill payments | Java, MySQL, JDBC |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
 ## 🎓 Education & Certifications
 
 <div align="center">
