@@ -143,7 +143,7 @@ const gevi = {
 
 ### 🏫 Bulacan State University
 **Bachelor of Science in Computer Engineering** *(2023 – Present)*
-📍 Malolos, Bulacan &nbsp;|&nbsp; Cumulative GWA: **1.31** &nbsp;|&nbsp; 🏆 Huawei ICT Nationals **Champion**
+| Malolos, Bulacan &nbsp;|&nbsp; Cumulative GWA: **1.31** &nbsp;|&nbsp; | Huawei ICT Nationals **Champion**
 
 </div>
 
