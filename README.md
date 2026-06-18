@@ -17,7 +17,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=caparasgevi&color=7C3AED&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/caparasgevi?style=flat-square&color=7C3AED&label=Followers)
 
 </div>
 
