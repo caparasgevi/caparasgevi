@@ -174,7 +174,7 @@ I'm open to **collaborations**, **open-source projects**, **mentorship**, and ju
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-gevi-caparas-71b4a02b6/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-gevi-caparas/)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://markgevicaparas.vercel.app/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gevi.caparas@gmail.com)
 
