@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=MARK+GEVI+CAPARAS;COMPUTER+ENGINEERING;FULL-STACK+%7C+EMBEDDED+%7C+AI" alt="Header SVG" />
 
   <p align="center">
-    <code>BulSU '27</code> &nbsp;—&nbsp; <code>1.31 Cumulative GWA</code>
-  </p>
-
-  <p align="center">
     <a href="https://caparasgevi.pages.dev/"><b>Website</b></a> &nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/mark-gevi-caparas-71b4a02b6/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
     <a href="mailto:gevi.caparas@gmail.com"><b>Email</b></a>
