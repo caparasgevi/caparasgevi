@@ -13,7 +13,7 @@
 ### 🧑‍💻 About
 
 - 🏆 **Champion** — 10th Huawei ICT Competition Innovation Track (Nationals)
-- 💼 Contributor at **BulSU PDO-DAICU** (BulSUPIPS 2.0 & PMES)
+- 💼 Contributor at **Bulacan State University's Planning and Development Office** (BulSUPIPS 2.0 & PMES)
 - 🌱 Currently focusing on **AI Engineering** (ML, NLP, RAG) & **Embedded Systems**
 
 ---
