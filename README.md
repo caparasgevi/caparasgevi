@@ -1,8 +1,16 @@
-# Mark Gevi Caparas
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=MARK+GEVI+CAPARAS;COMPUTER+ENGINEERING;FULL-STACK+%7C+EMBEDDED+%7C+AI" alt="Header SVG" />
 
-Computer Engineering Undergrad @ BulSU '27 | Full-Stack, Embedded & AI/ML
+  <p align="center">
+    <code>BulSU '27</code> &nbsp;—&nbsp; <code>1.31 Cumulative GWA</code>
+  </p>
 
-[LinkedIn](https://www.linkedin.com/in/mark-gevi-caparas-71b4a02b6/) • [Portfolio](https://caparasgevi.pages.dev/) • [GitHub](https://github.com/caparasgevi) • [Email](mailto:gevi.caparas@gmail.com)
+  <p align="center">
+    <a href="https://caparasgevi.pages.dev/"><b>Website</b></a> &nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/mark-gevi-caparas-71b4a02b6/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+    <a href="mailto:gevi.caparas@gmail.com"><b>Email</b></a>
+  </p>
+</div>
 
 ---
 
@@ -18,7 +26,7 @@ Computer Engineering Undergrad @ BulSU '27 | Full-Stack, Embedded & AI/ML
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=caparasgevi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=caparasgevi&theme=dark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
   </a>
 </div>
 
@@ -27,10 +35,10 @@ Computer Engineering Undergrad @ BulSU '27 | Full-Stack, Embedded & AI/ML
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caparasgevi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A855F7&text_color=ffffff" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=caparasgevi&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED&sideLabels=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caparasgevi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=caparasgevi&theme=dark&hide_border=true&background=0D1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=888888" />
   <br/><br/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caparasgevi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caparasgevi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
 </div>
 
 ---
@@ -39,7 +47,7 @@ Computer Engineering Undergrad @ BulSU '27 | Full-Stack, Embedded & AI/ML
 
 <div align="center">
   <a href="https://github.com/caparasgevi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=caparasgevi&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=7C3AED&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=caparasgevi&theme=github-dark&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
